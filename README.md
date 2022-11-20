@@ -1,1 +1,1 @@
-# temperature-predictor
+# My first JavaScript integration to HTML!
